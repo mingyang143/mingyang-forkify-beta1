@@ -4,6 +4,6 @@ export const TIMEOUT_SEC = 10;
 
 export const RES_PER_PAGE = 12;
 
-export const KEY = '1b31e2e1-3502-47f0-ad4f-cd90fe4e4e8f';
+export const KEY = '94cc02d1-4c29-4ec2-b11b-a255af0b62a3';
 
 export const MODAL_CLOSE_SEC = 2.5;
